@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/watilde/hamster/issues"
   },
-  "homepage": "https://github.com/watilde/hamster#readme"
+  "homepage": "https://github.com/watilde/hamster#readme",
+  "dependencies": {
+    "charm": "^1.0.0"
+  }
 }
