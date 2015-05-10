@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var black   = '\u001b[30m';
 var red     = '\u001b[31m';
 var green   = '\u001b[32m';
