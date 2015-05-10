@@ -1,5 +1,5 @@
 {
-  "name": "hamster",
+  "name": "@watilde/droplet",
   "version": "1.0.0",
   "description": ":hamster: < Hello!",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/watilde/hamster.git"
+    "url": "git+https://github.com/watilde/droplet.git"
   },
   "author": "Daijiro Wachi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/watilde/hamster/issues"
+    "url": "https://github.com/watilde/droplet/issues"
   },
-  "homepage": "https://github.com/watilde/hamster#readme",
+  "homepage": "https://github.com/watilde/droplet#readme",
   "dependencies": {
     "charm": "^1.0.0"
   }
